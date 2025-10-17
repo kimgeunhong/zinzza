@@ -1,0 +1,21 @@
+{
+  "name": "auto-review-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.66",
+    "@types/react-dom": "18.2.22",
+    "@types/react-youtube": "10.0.3",
+    "typescript": "5.4.5"
+  },
+  "dependencies": {
+    "lucide-react": "0.381.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-youtube": "10.3.0"
+  }
+}
